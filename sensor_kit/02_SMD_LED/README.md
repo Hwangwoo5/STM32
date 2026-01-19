@@ -286,6 +286,12 @@ void RGB_Demo_Rainbow(void)
 	         printf("\r\n--- Cycle Complete ---\r\n\n");
     /* USER CODE END WHILE */
 ```
+## 📊 실제 작동 
+![merged](https://github.com/user-attachments/assets/c7fe3821-3b0c-4ae6-98bd-e01782f7df4e)
+
+
+
+
 ## 📊 시리얼 출력 예시
 
 ```
