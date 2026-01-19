@@ -286,7 +286,7 @@ void RGB_Demo_Rainbow(void)
 	         printf("\r\n--- Cycle Complete ---\r\n\n");
     /* USER CODE END WHILE */
 ```
-## 📊 실제 작동 
+## 📊 실제 작동 테스트 
 ![merged](https://github.com/user-attachments/assets/c7fe3821-3b0c-4ae6-98bd-e01782f7df4e)
 
 
