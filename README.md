@@ -6,6 +6,10 @@ RGB LED 모듈을 STM32F103 NUCLEO 보드에서 PWM을 이용하여 제어하는
 
 RGB LED 모듈은 Red, Green, Blue 세 가지 색상의 LED가 하나의 패키지에 통합된 모듈입니다. PWM(Pulse Width Modulation)을 이용하여 각 색상의 밝기를 조절하고, 이를 혼합하여 다양한 색상을 만들어낼 수 있습니다.
 
+## BOM LIST
+<img width="1008" height="654" alt="image" src="https://github.com/user-attachments/assets/e9a7b63e-5ca5-453d-9311-cf2a0bfe45f9" />
+
+
 ## 🛠 하드웨어 구성
 
 ### 필요 부품
