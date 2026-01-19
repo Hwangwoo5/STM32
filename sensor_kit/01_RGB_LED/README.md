@@ -289,7 +289,7 @@ void RGB_Demo_Rainbow(void)
     /* USER CODE END WHILE */
 ```
 
-## 📊 작동 테스트
+## 📊 실제 작동 테스트
 
 ![merged](https://github.com/user-attachments/assets/b113dcb6-0379-444e-ae6d-0dfce81604b6)
 
