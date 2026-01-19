@@ -261,51 +261,10 @@ void RGB_Demo_Rainbow(void)
 
 	         printf("  Magenta (R+B)...\r\n");
 	         RGB_SetColor(255, 0, 255);
-	         HAL_Delay(1000);
+	         HAL_Delay(1000);력
+<img width="817" height="482" alt="RGB_TEST" src="https://github.com/user-attachments/assets/e9407839-5845-452b-bf8d-397a0095403b" />
 
-	         printf("  White (R+G+B)...\r\n");
-	         RGB_SetColor(255, 255, 255);
-	         HAL_Delay(1000);
 
-	         printf("  OFF...\r\n\n");
-	         RGB_SetColor(0, 0, 0);
-	         HAL_Delay(500);
-
-	         /* 페이드 효과 */
-	         printf("[Test 2] Fade Effect\r\n");
-	         RGB_Demo_Fade();
-	         HAL_Delay(500);
-
-	         /* 레인보우 효과 */
-	         printf("[Test 3] Rainbow Effect\r\n");
-	         RGB_Demo_Rainbow();
-	         HAL_Delay(500);
-
-	         printf("\r\n--- Cycle Complete ---\r\n\n");
-    /* USER CODE END WHILE */
-```
-## 📊 시리얼 출력 예시
-
-```
-========================================
-  RGB LED Module Test - NUCLEO-F103RB
-========================================
-
-[Test 1] Basic Colors
-  Red...
-  Green...
-  Blue...
-  Yellow (R+G)...
-  Cyan (G+B)...
-  Magenta (R+B)...
-  White (R+G+B)...
-  OFF...
-
-[Test 2] Fade Effect
-[Test 3] Rainbow Effect
-
---- Cycle Complete ---
-```
 
 ## 🔍 트러블슈팅
 
