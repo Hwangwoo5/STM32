@@ -305,6 +305,10 @@ void RGB_Demo_Rainbow(void)
 --- Cycle Complete ---
 ```
 
+## 📊 시리얼 출력
+<img width="480" height="535" alt="화면 캡처 2026-01-19 123750" src="https://github.com/user-attachments/assets/9d298470-ed7a-49d2-9ce8-15ea02c758c1" />
+
+
 ## 🔍 트러블슈팅
 
 | 증상 | 원인 | 해결 방법 |
