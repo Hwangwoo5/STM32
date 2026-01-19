@@ -7,6 +7,10 @@ SMD(Surface Mount Device) LED 모듈을 STM32F103 NUCLEO 보드에서 GPIO 및 P
 * SMD LED 모듈은 표면실장형 LED로, 일반 스루홀 LED보다 밝고 소형이며 효율적입니다. 
 * 이 프로젝트에서는 GPIO를 이용한 단순 ON/OFF 제어와 PWM을 이용한 밝기 조절을 모두 테스트합니다.
 
+## 센서 리스트
+<img width="480" height="654" alt="SCAN0000_1" src="https://github.com/user-attachments/assets/d9dc743a-12a1-4145-9f9e-791fd70baa56" />
+
+
 ## 🛠 하드웨어 구성
 
 ### 필요 부품
