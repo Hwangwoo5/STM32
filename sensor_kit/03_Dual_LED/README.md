@@ -6,6 +6,9 @@
 
 * 2색 LED 모듈은 하나의 패키지에 Red와 Green LED가 함께 들어있어 3가지 색상(Red, Green, Yellow/Orange)을 표현할 수 있습니다. 
 * 신호등, 상태 표시등, 배터리 레벨 인디케이터 등에 활용됩니다.
+## 센서리스트
+<img width="1008" height="654" alt="SCAN0000_1" src="https://github.com/user-attachments/assets/abdfcd09-452d-4309-acf3-411d5378a31d" />
+
 
 ## 🛠 하드웨어 구성
 
@@ -407,6 +410,9 @@ void DualLED_Alternating(void)
 /* USER CODE END 0 */
 ```
 
+## 작동 테스트
+![ezgif com-crop](https://github.com/user-attachments/assets/19c1b8fa-6a60-484c-b210-0a058c495567)
+
 
 
 
@@ -452,6 +458,10 @@ void DualLED_Alternating(void)
 
 --- Cycle Complete ---
 ```
+
+## 📊 시리얼 출력
+<img width="480" height="562" alt="화면 캡처 2026-01-19 144430" src="https://github.com/user-attachments/assets/812f5660-dfe7-42bf-86c4-ebf887aaaf98" />
+
 
 ## 📝 데모 패턴 상세
 
