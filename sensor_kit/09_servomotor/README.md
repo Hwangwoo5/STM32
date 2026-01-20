@@ -227,6 +227,20 @@ PUTCHAR_PROTOTYPE
 
     /* USER CODE END WHILE */
 ```
+📊 시리얼 출력
+![KakaoTalk_20260120_121504785](https://github.com/user-attachments/assets/1b24a992-5eb6-4c9d-8975-22a66bbd34a6)
+
+터미널 화면
+
+![KakaoTalk_20260120_121511066](https://github.com/user-attachments/assets/24d35309-6b29-49a7-8925-543717b76206)
+오실로스코프 측정
+
+📊 작동 테스트
+
+
+https://github.com/user-attachments/assets/0fb7cf79-6b02-47be-8941-7ea90ef82d8a
+
+
 
 ---
 # 각도표시
