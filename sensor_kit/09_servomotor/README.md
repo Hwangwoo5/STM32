@@ -227,6 +227,18 @@ PUTCHAR_PROTOTYPE
 
     /* USER CODE END WHILE */
 ```
+📊 시리얼 출력
+![KakaoTalk_20260120_121513941](https://github.com/user-attachments/assets/01b03a4f-e2c2-4f6a-8d2b-b9914af57fcc)
+
+![KakaoTalk_20260120_121511066](https://github.com/user-attachments/assets/335fce4b-79aa-4344-8197-2bf397926fac)
+
+
+📊 시연 영상
+
+https://github.com/user-attachments/assets/078ff974-c79d-43d1-aca0-5e7d5ca8887d
+
+
+
 
 ---
 # 각도표시
