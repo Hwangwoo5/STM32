@@ -33,6 +33,10 @@ pip install opencv-python pyserial
 
 ### 1. 카메라 확인
 
+<img width="1462" height="302" alt="캠테1" src="https://github.com/user-attachments/assets/dfde52b4-7578-47d0-8e97-7a787c67fe95" />
+
+<img width="1155" height="626" alt="캠테2" src="https://github.com/user-attachments/assets/b8f73880-c5a6-424b-8ad9-f934858f79e3" />
+
 ```bash
 python camtest.py
 ```
@@ -40,6 +44,11 @@ python camtest.py
 연결된 카메라 ID를 확인합니다.
 
 ### 2. 얼굴 추적 실행
+
+<img width="802" height="637" alt="캠테3" src="https://github.com/user-attachments/assets/9dd478db-9ecc-44b4-a9dc-4f8fcfad4894" />
+
+![캠테4](https://github.com/user-attachments/assets/93dbcb5d-54d1-4f45-a288-4b3c9bc9b135)
+
 
 **Windows:**
 ```bash
