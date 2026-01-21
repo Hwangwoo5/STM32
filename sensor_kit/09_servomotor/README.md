@@ -227,6 +227,17 @@ PUTCHAR_PROTOTYPE
 
     /* USER CODE END WHILE */
 ```
+📊 작동 테스트
+![KakaoTalk_20260120_121504785](https://github.com/user-attachments/assets/d8c8e78e-b9e3-443e-b877-01cd7544e37e)
+
+
+
+https://github.com/user-attachments/assets/2edeba52-0509-4b74-bfb4-98632aa3b371
+
+📊 오실로스코프 측정값
+
+![KakaoTalk_20260120_121511066](https://github.com/user-attachments/assets/6b295cad-917e-4fd5-b40e-4b0885a91599)
+
 
 ---
 # 각도표시
