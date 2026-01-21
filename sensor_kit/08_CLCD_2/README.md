@@ -274,3 +274,8 @@ void LCD_PUTS(char *str) {
   /* USER CODE END 2 */
 ```
 
+📊 작동 테스트
+![KakaoTalk_20260121_102507934](https://github.com/user-attachments/assets/6188eb42-2428-4306-843d-8efde2022c28)
+
+
+
