@@ -531,8 +531,9 @@ LCD_Init();
 Anim_Demo();
 ```
 
-## 3. 완료영상
-[ST7735S_SPI_160x80_동작영상]<br>(https://www.youtube.com/shorts/K2kj0Wgog0M)
+## 3. 작동영상
+
+https://github.com/user-attachments/assets/75202b7b-1e7d-4c95-91ba-125bdd2ad9a9
 
 
 
